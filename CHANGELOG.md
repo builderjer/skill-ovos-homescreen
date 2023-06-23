@@ -1,25 +1,12 @@
 # Changelog
 
-## [0.0.3a3](https://github.com/OpenVoiceOS/skill-ovos-homescreen/tree/0.0.3a3) (2023-06-07)
+## [V0.0.3a1](https://github.com/builderjer/skill-ovos-homescreen/tree/V0.0.3a1) (2023-06-04)
 
-[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-homescreen/compare/V0.0.3a1...0.0.3a3)
+[Full Changelog](https://github.com/builderjer/skill-ovos-homescreen/compare/V0.0.2a5...V0.0.3a1)
 
-**Merged pull requests:**
+## [V0.0.2a5](https://github.com/builderjer/skill-ovos-homescreen/tree/V0.0.2a5) (2023-02-20)
 
-- fix it-it [\#86](https://github.com/OpenVoiceOS/skill-ovos-homescreen/pull/86) ([denics](https://github.com/denics))
-- refactor/disable\_prefix [\#84](https://github.com/OpenVoiceOS/skill-ovos-homescreen/pull/84) ([JarbasAl](https://github.com/JarbasAl))
-
-## [V0.0.3a1](https://github.com/OpenVoiceOS/skill-ovos-homescreen/tree/V0.0.3a1) (2023-06-07)
-
-[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-homescreen/compare/V0.0.2...V0.0.3a1)
-
-**Closed issues:**
-
-- Log spam if date time api not available [\#51](https://github.com/OpenVoiceOS/skill-ovos-homescreen/issues/51)
-
-**Merged pull requests:**
-
-- reviewd it-it [\#85](https://github.com/OpenVoiceOS/skill-ovos-homescreen/pull/85) ([denics](https://github.com/denics))
+[Full Changelog](https://github.com/builderjer/skill-ovos-homescreen/compare/f9dae1d42d27be1a58fb1b95c49268a7773e9d0a...V0.0.2a5)
 
 
 
